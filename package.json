@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bitskins-v2-api": "^0.0.5",
+    "cors": "^2.8.5",
+    "credit-card-type": "^9.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
